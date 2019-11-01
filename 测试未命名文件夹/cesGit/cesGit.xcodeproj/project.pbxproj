@@ -16,6 +16,7 @@
 		1AF4F404236C161F00E4B2E7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F403236C161F00E4B2E7 /* main.m */; };
 		1AF4F40E236C161F00E4B2E7 /* cesGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F40D236C161F00E4B2E7 /* cesGitTests.m */; };
 		1AF4F419236C161F00E4B2E7 /* cesGitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F418236C161F00E4B2E7 /* cesGitUITests.m */; };
+		1AF4F428236C3BCA00E4B2E7 /* sad.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F427236C3BCA00E4B2E7 /* sad.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		1AF4F414236C161F00E4B2E7 /* cesGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cesGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AF4F418236C161F00E4B2E7 /* cesGitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cesGitUITests.m; sourceTree = "<group>"; };
 		1AF4F41A236C161F00E4B2E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1AF4F426236C3BCA00E4B2E7 /* sad.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sad.h; sourceTree = "<group>"; };
+		1AF4F427236C3BCA00E4B2E7 /* sad.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sad.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 			children = (
 				1AF4F3F1236C161D00E4B2E7 /* AppDelegate.h */,
 				1AF4F3F2236C161D00E4B2E7 /* AppDelegate.m */,
+				1AF4F426236C3BCA00E4B2E7 /* sad.h */,
+				1AF4F427236C3BCA00E4B2E7 /* sad.m */,
 				1AF4F3F4236C161D00E4B2E7 /* SceneDelegate.h */,
 				1AF4F3F5236C161D00E4B2E7 /* SceneDelegate.m */,
 				1AF4F3F7236C161D00E4B2E7 /* ViewController.h */,
@@ -268,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AF4F3F9236C161D00E4B2E7 /* ViewController.m in Sources */,
+				1AF4F428236C3BCA00E4B2E7 /* sad.m in Sources */,
 				1AF4F3F3236C161D00E4B2E7 /* AppDelegate.m in Sources */,
 				1AF4F404236C161F00E4B2E7 /* main.m in Sources */,
 				1AF4F3F6236C161D00E4B2E7 /* SceneDelegate.m in Sources */,
