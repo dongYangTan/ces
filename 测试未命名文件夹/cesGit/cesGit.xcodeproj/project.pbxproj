@@ -17,6 +17,7 @@
 		1AF4F40E236C161F00E4B2E7 /* cesGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F40D236C161F00E4B2E7 /* cesGitTests.m */; };
 		1AF4F419236C161F00E4B2E7 /* cesGitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F418236C161F00E4B2E7 /* cesGitUITests.m */; };
 		1AF4F428236C3BCA00E4B2E7 /* sad.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F427236C3BCA00E4B2E7 /* sad.m */; };
+		1AF4F42B236C4D0200E4B2E7 /* sedcadsfdsf.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F42A236C4D0200E4B2E7 /* sedcadsfdsf.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		1AF4F41A236C161F00E4B2E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AF4F426236C3BCA00E4B2E7 /* sad.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sad.h; sourceTree = "<group>"; };
 		1AF4F427236C3BCA00E4B2E7 /* sad.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sad.m; sourceTree = "<group>"; };
+		1AF4F429236C4D0200E4B2E7 /* sedcadsfdsf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sedcadsfdsf.h; sourceTree = "<group>"; };
+		1AF4F42A236C4D0200E4B2E7 /* sedcadsfdsf.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sedcadsfdsf.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +114,8 @@
 				1AF4F3F2236C161D00E4B2E7 /* AppDelegate.m */,
 				1AF4F426236C3BCA00E4B2E7 /* sad.h */,
 				1AF4F427236C3BCA00E4B2E7 /* sad.m */,
+				1AF4F429236C4D0200E4B2E7 /* sedcadsfdsf.h */,
+				1AF4F42A236C4D0200E4B2E7 /* sedcadsfdsf.m */,
 				1AF4F3F4236C161D00E4B2E7 /* SceneDelegate.h */,
 				1AF4F3F5236C161D00E4B2E7 /* SceneDelegate.m */,
 				1AF4F3F7236C161D00E4B2E7 /* ViewController.h */,
@@ -274,6 +279,7 @@
 			files = (
 				1AF4F3F9236C161D00E4B2E7 /* ViewController.m in Sources */,
 				1AF4F428236C3BCA00E4B2E7 /* sad.m in Sources */,
+				1AF4F42B236C4D0200E4B2E7 /* sedcadsfdsf.m in Sources */,
 				1AF4F3F3236C161D00E4B2E7 /* AppDelegate.m in Sources */,
 				1AF4F404236C161F00E4B2E7 /* main.m in Sources */,
 				1AF4F3F6236C161D00E4B2E7 /* SceneDelegate.m in Sources */,
