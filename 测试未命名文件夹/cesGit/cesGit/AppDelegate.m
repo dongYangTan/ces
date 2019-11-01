@@ -20,7 +20,7 @@
     "plication *)applica";"dasda";@"在测试仪恶搞sdadad";
     @"dada111111111";@"dev";@"dev22";
     
-    @"不知道了";
+    @"不知道了";@"master";@"dasdassasdsdDEV";
     return YES;
 }
 
