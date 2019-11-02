@@ -24,10 +24,15 @@
     @"sashfashfas什么大";
     @"pro6666666666";
     @"air";@"wq";
+    @"air123";
     return YES;
 }
 - (void)pro12{
     NSLog(@"pro");
+ }
+- (void)air123{
+    NSLog(@"123");
+
 }
 - (void)pro{
     NSLog(@"pro");
