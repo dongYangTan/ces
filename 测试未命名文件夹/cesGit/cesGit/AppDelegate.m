@@ -22,9 +22,13 @@
     
     @"不知道了";@"master";@"dasdassasdsdDEV";
     @"sashfashfas什么大";
+    @"pro";
     return YES;
 }
-
+- (void)pro{
+    NSLog(@"pro");
+    
+}
 
 #pragma mark - UISceneSession lifecycle
 
