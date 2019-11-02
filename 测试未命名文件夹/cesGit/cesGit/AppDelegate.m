@@ -22,9 +22,12 @@
     
     @"不知道了";@"master";@"dasdassasdsdDEV";
     @"sashfashfas什么大";
-    @"pro";
+    @"pro6666666666";
     @"air";@"wq";
     return YES;
+}
+- (void)pro12{
+    NSLog(@"pro");
 }
 - (void)pro{
     NSLog(@"pro");
