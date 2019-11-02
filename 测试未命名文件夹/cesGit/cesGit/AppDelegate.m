@@ -24,6 +24,7 @@
     @"sashfashfas什么大";
     @"pro";
     @"air123";
+    @"air";@"wq";
     return YES;
 }
 - (void)air123{
