@@ -22,9 +22,12 @@
     
     @"不知道了";@"master";@"dasdassasdsdDEV";
     @"sashfashfas什么大";
+    @"air";
     return YES;
 }
-
+- (void)air{
+    NSLog(@"air");
+}
 
 #pragma mark - UISceneSession lifecycle
 

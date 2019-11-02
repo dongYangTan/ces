@@ -18,6 +18,7 @@
 		1AF4F419236C161F00E4B2E7 /* cesGitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F418236C161F00E4B2E7 /* cesGitUITests.m */; };
 		1AF4F428236C3BCA00E4B2E7 /* sad.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F427236C3BCA00E4B2E7 /* sad.m */; };
 		1AF4F42B236C4D0200E4B2E7 /* sedcadsfdsf.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AF4F42A236C4D0200E4B2E7 /* sedcadsfdsf.m */; };
+		ED2BDA0A236D63E30022C629 /* air.m in Sources */ = {isa = PBXBuildFile; fileRef = ED2BDA09236D63E30022C629 /* air.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,8 @@
 		1AF4F427236C3BCA00E4B2E7 /* sad.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sad.m; sourceTree = "<group>"; };
 		1AF4F429236C4D0200E4B2E7 /* sedcadsfdsf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sedcadsfdsf.h; sourceTree = "<group>"; };
 		1AF4F42A236C4D0200E4B2E7 /* sedcadsfdsf.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sedcadsfdsf.m; sourceTree = "<group>"; };
+		ED2BDA08236D63E30022C629 /* air.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = air.h; sourceTree = "<group>"; };
+		ED2BDA09236D63E30022C629 /* air.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = air.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,8 @@
 				1AF4F3F2236C161D00E4B2E7 /* AppDelegate.m */,
 				1AF4F426236C3BCA00E4B2E7 /* sad.h */,
 				1AF4F427236C3BCA00E4B2E7 /* sad.m */,
+				ED2BDA08236D63E30022C629 /* air.h */,
+				ED2BDA09236D63E30022C629 /* air.m */,
 				1AF4F429236C4D0200E4B2E7 /* sedcadsfdsf.h */,
 				1AF4F42A236C4D0200E4B2E7 /* sedcadsfdsf.m */,
 				1AF4F3F4236C161D00E4B2E7 /* SceneDelegate.h */,
@@ -282,6 +287,7 @@
 				1AF4F42B236C4D0200E4B2E7 /* sedcadsfdsf.m in Sources */,
 				1AF4F3F3236C161D00E4B2E7 /* AppDelegate.m in Sources */,
 				1AF4F404236C161F00E4B2E7 /* main.m in Sources */,
+				ED2BDA0A236D63E30022C629 /* air.m in Sources */,
 				1AF4F3F6236C161D00E4B2E7 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -454,7 +460,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 22SY7UL67H;
 				INFOPLIST_FILE = cesGit/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -472,7 +478,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 22SY7UL67H;
 				INFOPLIST_FILE = cesGit/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
