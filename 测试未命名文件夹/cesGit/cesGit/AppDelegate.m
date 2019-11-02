@@ -23,8 +23,11 @@
     @"不知道了";@"master";@"dasdassasdsdDEV";
     @"sashfashfas什么大";
     @"pro";
-    @"air";
+    @"air123";
     return YES;
+}
+- (void)air123{
+    NSLog(@"123");
 }
 - (void)pro{
     NSLog(@"pro");
