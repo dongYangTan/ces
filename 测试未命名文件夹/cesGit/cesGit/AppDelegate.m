@@ -19,7 +19,7 @@
     // Override point for customization after application launch.
     @"stadasshas11111";
     @"-am  666666";
-
+    @"几项要测试一下";
     return YES;
 }
 -(void)application{
