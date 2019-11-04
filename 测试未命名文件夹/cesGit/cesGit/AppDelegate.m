@@ -17,14 +17,16 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    @"stadasshas11111";
-    @"-am  666666";
+
 
     return YES;
 }
 -(void)application{
-    
+    @"暂存^^^^^^^^^^6666666";
     NSLog(@"MSdasffet 就知道");
+    
+    
+    @" UISceneSession lifecycle";
 }
 
 #pragma mark - UISceneSession lifecycle
