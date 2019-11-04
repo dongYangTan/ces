@@ -21,7 +21,8 @@
     return YES;
 }
 -(void)application{
-    NSLog(@"git test");
+    
+    NSLog(@"MSdasffet 就知道");
 }
 
 #pragma mark - UISceneSession lifecycle
