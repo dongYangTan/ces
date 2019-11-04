@@ -20,6 +20,12 @@
     @"stadasshas11111";
     @"-am  666666";
     @"几项要测试一下";
+    
+    
+    
+    @"stash";
+    @"stashMES";
+
     return YES;
 }
 -(void)application{
