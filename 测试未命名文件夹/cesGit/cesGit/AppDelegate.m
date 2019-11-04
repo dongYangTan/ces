@@ -17,9 +17,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    @"stadassh";
+    @"stadasshas11111";
     
-    @"不着调怎噩梦回事"
     return YES;
 }
 -(void)application{
