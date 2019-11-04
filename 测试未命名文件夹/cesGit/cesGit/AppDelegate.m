@@ -17,28 +17,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    "plication *)applica";"dasda";@"在测试仪恶搞sdadad";
-    @"dada111111111";@"dev";@"dev22";
-    
-    @"不知道了";@"master";@"dasdassasdsdDEV";
-    @"sashfashfas什么大";
-    @"pro6666666666";
-    @"air";@"wq";
-    @"air123";
+
     return YES;
 }
-- (void)pro12{
-    NSLog(@"pro");
- }
-- (void)air123{
-    NSLog(@"123");
-
-}
-- (void)pro{
-    NSLog(@"pro");
-    }
-- (void)air{
-    NSLog(@"air");
+-(void)application{
+    NSLog(@"git test");
 }
 
 #pragma mark - UISceneSession lifecycle
