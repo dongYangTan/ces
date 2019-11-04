@@ -29,7 +29,7 @@
     return YES;
 }
 -(void)application{
-    @"暂存";
+    @"暂存^^^^^^^^^^6666666";
     NSLog(@"MSdasffet 就知道");
     
     
