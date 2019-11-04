@@ -18,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     @"stadasshas11111";
-    @"-am  666666"
+    @"-am  666666";
 
     return YES;
 }
