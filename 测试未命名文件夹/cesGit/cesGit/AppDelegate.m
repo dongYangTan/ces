@@ -18,11 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
 
-    for (int i=0; i<11; i++) {
-        
-        NSString * str = @"测试";
-        NSLog(@"%@%d",str,i);
-    }
+    @"测试push";
     return YES;
 }
 -(void)application{
