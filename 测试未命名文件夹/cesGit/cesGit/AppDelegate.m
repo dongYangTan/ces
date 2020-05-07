@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
 
     @"测试push";
+    @"lalalaal";
     return YES;
 }
 -(void)application{
