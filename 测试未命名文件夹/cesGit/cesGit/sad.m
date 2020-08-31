@@ -13,7 +13,7 @@
 {
     self = [super initWithCoder:coder];
     if (self) {
-        
+        int a=0;
     }
     return self;
 }
