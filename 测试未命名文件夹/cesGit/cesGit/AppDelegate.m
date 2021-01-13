@@ -8,7 +8,10 @@
 
 #import "AppDelegate.h"
 
-@interface AppDelegate ()
+@interface AppDelegate (){
+    
+    NSMutableArray * mutableArr;
+}
 
 @end
 
@@ -20,7 +23,29 @@
 
    NSString*str= @"测试0827";
     NSLog(@"%@",str);
+    
+    mutableArr = [NSMutableArray array];
+    NSArray * array = @[@"1",@"2",@"3",@"4",@"5",@"6",@"7"];
+    [self groupArray:array count:0];
+    NSLog(@"%@",mutableArr);
     return YES;
+}
+
+ - (void)groupArray:(NSArray *)arr count:(NSInteger)count {
+    NSMutableArray * tempArray = [NSMutableArray array];
+    while (count < arr.count) {
+        [tempArray addObject:arr[count]];
+        count++;
+        if (count% 3 == 0) {
+            break;
+        }
+        if (count == arr.count) {
+            [mutableArr addObject:tempArray];
+            return;
+        }
+    }
+    [mutableArr addObject:tempArray];
+    [self groupArray:arr count:count];
 }
 -(void)application{
     NSLog(@"UISceneSession lifecycle");

@@ -18,5 +18,12 @@
     // Drawing code
 }
 */
-
+- (instancetype)init
+{
+    self = [super init];
+    if (self) {
+        NSLog(@"1");
+    }
+    return self;
+}
 @end
