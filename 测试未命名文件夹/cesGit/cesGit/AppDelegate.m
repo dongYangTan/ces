@@ -21,7 +21,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
 
-   NSString*str= @"测试0827";
+   NSString* str = @"测试0827";
     NSLog(@"%@",str);
     
     mutableArr = [NSMutableArray array];
